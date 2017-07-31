@@ -23,3 +23,7 @@ A work in progress - pull requests gladly accepted.
 ## Trie Tree
 
 ![Trie Tree](./Trie%20Tree.mindnode/QuickLook/Preview.jpg)
+
+## Disruptor
+
+![Disruptor](./Disruptor.mindnode/QuickLook/Preview.jpg)
