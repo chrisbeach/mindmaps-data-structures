@@ -1,6 +1,6 @@
 [Mindnode](https://mindnode.com) mind maps to aid learning data structures
 
-ℹ️ See also: [mindmaps-scala-java](https://github.com/chrisbeach/mindmaps-scala-java)
+See also: [mindmaps-scala-java](https://github.com/chrisbeach/mindmaps-scala-java)
 
 A work in progress - pull requests gladly accepted.
 
