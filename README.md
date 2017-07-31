@@ -8,6 +8,10 @@ A work in progress - pull requests gladly accepted.
 
 ![Key](./key.png)
 
+## Hash Tables
+
+![Hashtables](./Hashtables.mindnode/QuickLook/Preview.jpg)
+
 ## Graph Data Structures
 
 ![Graph Data Structures](./Graph%20Data%20Structures.mindnode/QuickLook/Preview.jpg)
