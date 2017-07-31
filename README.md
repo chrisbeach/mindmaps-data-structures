@@ -16,6 +16,10 @@ A work in progress - pull requests gladly accepted.
 
 ![Graph Data Structures](./Graph%20Data%20Structures.mindnode/QuickLook/Preview.jpg)
 
+## AVL Tree
+
+![AVL Tree](./AVL%20Tree.mindnode/QuickLook/Preview.jpg)
+
 ## Trie Tree
 
 ![Trie Tree](./Trie%20Tree.mindnode/QuickLook/Preview.jpg)
